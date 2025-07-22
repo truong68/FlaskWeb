@@ -190,10 +190,10 @@ app = Flask(__name__)
 app.secret_key = "your-secret-key"  # Dùng để hiển thị thông báo (flash)
 
 # Cấu hình proxy
-proxy_host = "160.22.173.91"
-proxy_port = 39546
-proxy_user = "best6395"
-proxy_pass = "xedaba89n03"
+proxy_host = "103.163.25.103"
+proxy_port = 43782
+proxy_user = "WEyRduUf"
+proxy_pass = "7tMDv4bU"
 
 # Tạo tệp extension proxy
 def create_proxy_auth_extension():
